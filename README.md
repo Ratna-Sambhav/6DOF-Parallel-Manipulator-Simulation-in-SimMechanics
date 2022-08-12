@@ -6,3 +6,4 @@ Before running the simulink file, following steps needed to be ensured:
   3. For each Solid File, check the File Name. Select the cad file (which you've downloaded) corresponding to the name given in 'File Name' of that Solid File. e.g. If File Name is F1.SAT, choose F1.SAT from the downloaded CAD files, if File Name is F4_S.SAT, choose the corresponding file from the downloaded CAD files, and so on. Do this for each and every Solid File. 
   4. After updating File Name for each and every Solid File, press on Simulink RUN button, to run a pre-specified motion.
 To run your own motion, change the inputs to the 'IK; MATLAB FUNCTION Block.
+![Mechanics Explorers - Mechanics Explorer-Corrected 2022-08-12 09-09-51 (online-video-cutter com)](https://user-images.githubusercontent.com/72562461/184288298-9e11bc08-5d21-4dd9-bebb-fc4839482cdd.gif)
