@@ -1,0 +1,2 @@
+# 6DOF-Parallel-Manipulator-Simulation-in-SimMechanics
+This is a Multi-Body simulation of 6 degrees of freedom parallel manipulator. Actuator control signals are given to the linear actuators to create a desired output motion of the end manipulator i.e. upper plate. This simulation can be easily used to check for the type of control signal required to create a particular motion of parallel manipulator prior to hardware implementation. It can also be used to decide the hardware specification of actuators for any particular application.
